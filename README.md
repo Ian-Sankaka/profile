@@ -1,5 +1,5 @@
 # About Me:
--👋 Hi, I’m @Ian-dev1<br>- 👀 I’m interested in ...Software Engineering<br>- 🌱 I’m currently learning ...PhP,Javascript<br>- 💞️ I’m looking to collaborate on ...E-commerce projects<br>- 📫 How to reach me ...iansankaka@icloud.com
+-👋 Hi, I’m @Ian-dev1<br>- 👀 I’m interested in ...Software Engineering<br>- 🤝 I’m looking to collaborate on ...E-commerce projects<br>- 📫 How to reach me ...iansankaka@icloud.com
 
 
 ## 🌐 Socials:
